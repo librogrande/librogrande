@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=librogrande&label=Profile%20views&color=0e75b6&style=flat" alt="librogrande" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=librogrande" alt="librogrande" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=librogrande&theme=github_dark" alt="librogrande" /></a> </p>
 
 - 🔭 I’m currently working on [librogrande.github.io/BSU](librogrande.github.io/BSU)
 
