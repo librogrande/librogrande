@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=librogrande&show_icons=true&locale=en&theme=github_dark" alt="librogrande" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=librograndet&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="librogrande" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=librograndet&theme=black-ice&hide_border=true" alt="librogrande" /></p>
